@@ -18,11 +18,11 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLi)
 
-<img src="https://raw.githubusercontent.com/PooneetThaper/Codepath-CyberSecurity-Week-8/master/gifs/SQL_BLUE.gif" width="300">
+<img src="https://raw.githubusercontent.com/PooneetThaper/Codepath-CyberSecurity-Week-8/master/gifs/SQL_BLUE.gif" width="800">
 
 Vulnerability #2: Session Hijacking/Fixation
 
-<img src="https://raw.githubusercontent.com/PooneetThaper/Codepath-CyberSecurity-Week-8/master/gifs/SHF_BLUE.gif" width="300">
+<img src="https://raw.githubusercontent.com/PooneetThaper/Codepath-CyberSecurity-Week-8/master/gifs/SHF_BLUE.gif" width="800">
 
 ## Green
 
@@ -42,7 +42,7 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
-<img src="https://raw.githubusercontent.com/PooneetThaper/Codepath-CyberSecurity-Week-8/master/gifs/CSRF_RED.gif" width="300">
+<img src="https://raw.githubusercontent.com/PooneetThaper/Codepath-CyberSecurity-Week-8/master/gifs/CSRF_RED.gif" width="500">
 
 
 ## Notes
